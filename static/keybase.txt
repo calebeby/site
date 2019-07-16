@@ -1,0 +1,89 @@
+==================================================================
+https://keybase.io/fharding
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://harding.coffee
+  * I am fharding (https://keybase.io/fharding) on keybase.
+  * I have a public key with fingerprint B279 3989 CE2A 7394 D627  9838 32EF 1238 EE9E 7537
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205fe7cce2a646d4b93d9efebf2f452ca7b1e22862d4df80dc3b6af82a667d35290a",
+      "fingerprint": "b2793989ce2a7394d627983832ef1238ee9e7537",
+      "host": "keybase.io",
+      "key_id": "32ef1238ee9e7537",
+      "kid": "01012513c7e330e49359901c8a965e3ae0cb6f6c1b136df706d9d94737c86e4c8c440a",
+      "uid": "4d3569e7acd6315240dc6c9818d2b519",
+      "username": "fharding"
+    },
+    "merkle_root": {
+      "ctime": 1551719115,
+      "hash_meta": "f8c1da276f99ebd8d815197faf0fa316a8f73202a98c95c896d7dd297d2b64ae",
+      "seqno": 4873896
+    },
+    "revoke": {
+      "sig_ids": [
+        "410d66421a2618bec8cd6414c70c87e5545f604c22ded59bed6912c61c334c470f"
+      ]
+    },
+    "service": {
+      "hostname": "harding.coffee",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1551719184,
+  "expire_in": 157680000,
+  "prev": "84bbb7e74b3510c5c4a198abf033fdf6717e44ae215f0e3d647ccde8fc318631",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMP5AnicbVN5bBVFHH5cCsVa0gJy2rBIiFgfO7uzc7QSRUsNRyqXFeR47s7Mtktf
+376+C2opDUmBV6vGABZQqBFDqCTchss/tGAhCAG0QrgPqVaUVKBQwKM420BMjPPP
+ZGa+3/f7vm9mvknt5kvpov2eTlrr4rjLkf0L4r7ZFbP6lCuWy8uU7HKlWHROIshF
+NBYodriSrahAUw1bYMaEZiKIOLSozqmwhWVrNjQ0ZmILCE0jSOOQ20TlTLeQaRMJ
+R5jrhkZVU8lSbCdUKCLhiBOKSVpLw1SnhHqsWKeQI7lBdKJrwgaaToSgAhs6loVF
+btSrkOIsMyr8jiv35CLQKe9/8I90S+UG0BkWuq4KSHWDUhUwYlJkCN0UKrOQjRiw
+gI64jVXEKacQ65gRJCAjDMJO3fFOOiiNINnCZBzpwNCgtIkYJYBwzTIA9YBREQmZ
+JUKi7SIzwqVfpSJLKRGR4qAIRFw35oXLYo4HAYYBMKAAGNKgGS0KlIiY6VUSBrip
+YWRTKixOOAGSHdumrdqmDpBJbKxrqmZSwqjBCEUcc65RLGUgaAqpIypKQ66SDQnW
+5bFUEBEJt1h4zaNOoYwtqmTPUiBQOUJQA6aGALGENMwRBJBhlREsDAMaNlIh0zQu
+uEEtwREFGkOA6TpkEKu2MqfCaxZJOKyT3Lunh/4f2vcz17aFpykccWMuc4PeWSwW
+jmZ7ycTKwh54vrACD2kClhPqzC1LSYhI1HFDMimJ/E9oBGYpYkHYiYiA4yEMjIgq
+h9dHJCQlgZZlYYGhpRtAZQaDJqDEtGxV121uIwywgDItDRi2KnRpXL5vLojNdEDk
+/f6bIiBSp1koOWV2ITMWjwilYn/D7O6+Lim+x3p09T6QL6VXn0ffKqcorWPYhuDV
+FZemrCn7LfN0YNm1zSN2j2rKvVHB5k9Y11HS0X3lxvW3wusuDh1b8GDMK7143jFf
+x9ox3ab2G9+zesrCxXcyVldl/j21FDUGtqTmlp9pmT7sYtP1gvyGnZO7rbo54eim
+3HfNhT+szB89OGObP5D+eszna/5u2p7bFfMy+519O/PJApayqm3ZlhO1mnZv9cAZ
+G48HWwsyyqxS59umkpFPD+y9aFBOytDDsQFXGs5tH/7yPjgg3LX//M8GzbvbNyt5
+uW7zuaV/5H/95tm1d09Vh6fXH2hTN6zYvGDe9Wd+Gvz4sZzrR6t2T4p/TPMq1//y
+4idluQ3DWGsiXF/afLK2aqZ/Z33rlBW3X238q9Z+K9E2bvv4tTN2OTtbpl+u/rPg
+uHNj9dInru2p7vrF8r1zruKJHf7689WX6udOOHmorfHigWT81AeV5Me0NFxLL9eP
+09pvl+ff7ftpYoAyrd977o7FG7YNmZa+qNQfdCd+3nLk+0NtS27SZHDuzNNbkPLh
+KPLRjv5nMnrmDazT++7D6b3bKjsalzcPuXdmiXgqY9LN4P3JD44WzDqRd/ZLpeqF
+4yVb48MTpXt3XDg42p88GNj6xia1MvXXqz9fGT70nXLSY9FX1rpI721j23PeH3GY
+7HltZMviuclgn0Ilr+ZCc9FBmNreVJiM3hn57PP5z51/adCNNTiZXVizq/1+3S1f
+WmpdSs2yfwDL5v+B
+=qSSH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fharding
+
+==================================================================
+

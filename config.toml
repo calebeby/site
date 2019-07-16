@@ -1,0 +1,29 @@
+baseurl = "https://harding.coffee/"
+languageCode = "en-us"
+title = "Franklin Harding"
+theme = "hyde"
+copyright = "Franklin Harding"
+
+[permalinks]
+	post = "/:year/:month/:title/"
+
+[menu]
+	[[menu.main]]
+		name = "About Me"
+		url = "/about/"
+	
+	[[menu.main]]
+		name = "Resume"
+		url = "/resume/"
+
+	[[menu.main]]
+		name = "Github"
+		url = "https://github.com/fharding1"
+
+	[[menu.main]]
+		name = "LinkedIn"
+		url = "https://www.linkedin.com/in/franklin-harding-455193165/"
+	
+
+[params]
+	description = "Software Engineer, FRC Mentor, PDXKBC Organizer"
