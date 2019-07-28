@@ -6,7 +6,7 @@ date: 2019-05-22T00:03:27-07:00
 ![Assembled Badge](/pdxkbc/assembledbadge.jpg)
 
 If you're reading this blog post, you probably got one of the PDX KBC (Portland Keyboard Club) badges I designed,
-either at a PDXKBC meetup, or at DEF CON. This blog post will go over the materials and tools you need to build
+either at a PDXKBC meetup, SMKmeetup, or at DEF CON. This blog post will go over the materials and tools you need to build
 the badge, as well as how to flash the firmware and put it together!
 
 ## Bill of Materials
