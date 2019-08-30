@@ -3,6 +3,9 @@ title: "PDXKBC"
 date: 2019-05-22T00:03:27-07:00
 ---
 
+>These boards are now available on [mountainblocks.com](https://mountainblocks.com/products/pdxkbc-macropad-kit?variant=29154645409869)
+>and $3 from each kit goes to PDXKBC. The assembly guide there is also much better than this one, so I highly recommend checking that out!
+
 ![Assembled Badge](/pdxkbc/assembledbadge.jpg)
 
 If you're reading this blog post, you probably got one of the PDX KBC (Portland Keyboard Club) badges I designed,
