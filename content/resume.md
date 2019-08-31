@@ -43,4 +43,4 @@ CI/CD, Cloud Services: AWS EC2, S3, CodePipeline, ECS, EKS, CircleCI, Jenkins, D
 * [slamd](https://github.com/fharding1/slamd), a split 40% ortholinear mechanical keyboard I designed
 * [pdxkbc-badge](https://github.com/fharding1/pdxkbc-badge), a badge for DEF CON representing the Portland Keyboard Club (of which I am an organizer)
 * [gemux](https://github.com/fharding1/gemux), [pwnedpass](https://github.com/fharding1/pwnedpass), and many other open-source projects on my Github
-* [gorilla/mux](https://github.com/gorilla/mux) contributor, maintainer
+* Have contributed features to [gorilla/mux](https://github.com/gorilla/mux), [mrparkers/terraform-keycloak-provider](https://github.com/mrparkers/terraform-provider-keycloak), and other open source projects.
