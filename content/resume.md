@@ -26,7 +26,7 @@ CI/CD, Cloud Services: AWS EC2, S3, CodePipeline, ECS, EKS, CircleCI, Jenkins, D
 
 * Developed a Go reverse proxy for authorization which allowed us to remove lots of complexity from existing services, create new services faster, and secure third party APIs in a seamless way, additionally, replaced a friction-causing custom express server with a proper API gateway
 * Improved platform performance through agressive caching and code-splitting, decreased load time significantly
-* Continued to maintain existing Go and Python services interacting with PostgreSQL/MariaDB/ElasticSearch/Redis databases as well as other internal and external services for the DSP (Demand-Side Platform), continued to participate in regular code reviewx
+* Continued to maintain existing Go and Python services interacting with PostgreSQL/MariaDB/ElasticSearch/Redis databases as well as other internal and external services for the DSP (Demand-Side Platform), continued to participate in regular code review
 * Began working on new CRUD services in Go for the new Supply-Side Platform
 * Maintained and setup new infrastructure with terraform, cloudformation, and ansible
 * Transitioned our services from ECS to EKS (using Rancher to manage clusters)
