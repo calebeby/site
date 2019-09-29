@@ -17,7 +17,7 @@ copyright = "Franklin Harding"
 		url = "/resume/"
 
 	[[menu.main]]
-		name = "Github"
+		name = "GitHub"
 		url = "https://github.com/fharding1"
 
 	[[menu.main]]
